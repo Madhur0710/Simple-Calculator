@@ -1,0 +1,40 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-red{
+    background: red;
+}
+
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+.button{
+    background-color: whitesmoke;
+    width: 66px;
+    padding: 2vw;
+    margin:  0 3px;
+    border: 2px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+    
+}
+.row{
+    margin: 5px 0;
+}
+.row input{
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 25px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
